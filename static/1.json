@@ -1,0 +1,31 @@
+[{
+		"datatime": "2020-03-12 00:00:00",
+		"size": 3,
+		"cluster_name": "qy",
+		"cluster": 1
+	},
+	{
+		"datatime": "2020-03-12 00:00:00",
+		"size": 4,
+		"cluster_name": "wy",
+		"cluster": 2
+	},
+	{
+		"datatime": "2020-03-12 00:00:00",
+		"size": 2,
+		"cluster_name": "ey",
+		"cluster": 3
+	},
+	{
+		"datatime": "2020-03-13 00:00:00",
+		"size": 5,
+		"cluster_name": "qy",
+		"cluster": 2
+	},
+	{
+		"datatime": "2020-03-13 00:00:00",
+		"size": 4,
+		"cluster_name": "ey",
+		"cluster": 3
+	}
+]

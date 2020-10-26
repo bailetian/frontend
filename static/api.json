@@ -1,0 +1,20 @@
+{
+   "base-old": "https://api-haop.mininglamp.com/api",
+   "base": "https://49.234.136.17/api",
+   "configUrl-old": "/api",
+   "configUrl": "https://129.211.104.248",
+   "browser": "/browser/",
+   "普通用户语音界面": "语音",
+   "https_url": "/websocket/",
+   "audio_url-old": "wss://api-haop.mininglamp.com/api/websocket/",
+   "audio_url": "wss://49.234.136.17/api/websocket/",
+   "audio_url1": "ws://api-haop.mininglamp.com/api/test_transform_streamingaudio/",
+   "登录": "登陆页面",
+   "login": "/login/",
+   "zhuce": "/register/",
+   "logout": "/logout/",
+   "timecheck": "/time_check/",
+   "timeupdate": "/time_update/",
+   "resultListApi": "/api/read/result_list/",
+   "resultApi": "/api/read/result/"
+}
